@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I6wzqnbYsjk=",
+  "success": true,
+  "projectFilePath": "/Users/casperdijkstra/Documents/CloudRepublic/Presentaties/Git/Repos/Submodule/submodule-demo/main-app/MainApp/MainApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/casperdijkstra/.nuget/packages/microsoft.aspnetcore.openapi/10.0.2/microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
+    "/Users/casperdijkstra/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

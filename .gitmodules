@@ -1,0 +1,3 @@
+[submodule "SubmoduleDemo"]
+	path = SubmoduleDemo
+	url = https://github.com/cdijkstra/SubmoduleDemo
